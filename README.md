@@ -1,8 +1,12 @@
 # Overview
 
-This projects implented a retrain script can retrain a MobileNet. It is not optimal for accuracy, like Inception V3, but small and efficient.
+This projects implented aretrain script can retrain a MobileNet. It is not optimal for accuracy, like Inception V3, but small and efficient.
 
-This repo contains code for the "TensorFlow for poets 2" series of codelabs.
+Have a look for the tutorial at 
+
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+
+This repo contains code for the "TensorFlow for poets " series of codelabs.
 
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
